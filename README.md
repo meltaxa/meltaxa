@@ -32,9 +32,9 @@ Check out: <a href="https://github.com/meltaxa/slackview">https://github.com/mel
 <hr/>
 
 #### *A screenshot is worth a thousand lines of code
-A worthy adage meaning that the complex and sometimes multiple ideas can be conveyed by a single snapshot, which conveys the meaning or essence more effectively than a long descriptive README.
+A worthy adage meaning that the complex and sometimes multiple ideas can be conveyed by a single project snapshot, which conveys the meaning or essence more effectively than a long descriptive README.
 
-Each project screenshot is dynamic and updated every 5 minutes. Reload this page to see the latest! To add a dynamic screenshot to your Github profile, view this <a href="https://github.com/meltaxa/meltaxa/raw/master/README.md">README.md</a> file in raw format and see the comments section towards the end of the file.
+Each project screenshot is dynamic and updated every 5 minutes. Click on the screenshot or reload this page to see the latest! To add a dynamic screenshot to your Github profile, view this <a href="https://github.com/meltaxa/meltaxa/raw/master/README.md">README.md</a> file in raw format and see the comments section towards the end of the file.
 
 <!---
 To add a dynamic screenshot to your Github profile
@@ -43,6 +43,8 @@ To add a dynamic screenshot to your Github profile
 Dynamic images are served from a web server. The screenshots are taken periodically by Puppeteer.
 The web server must disable caching for the images using headers. Any CDN must respect these headers.
 Github uses it's own CDN service called Camo. You may need to purge any images in it's cache too.
+
+Instructions are for Ubuntu systems. Ironically, a screenshot doesn't cover 100 comment lines in these instructions. :-)
 
 # Install Google Chrome
 sudo apt-get install libxss1 libappindicator1 libindicator7
@@ -54,7 +56,7 @@ sudo apt-get install -f
 curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash -
 sudo apt-get install -y nodejs
 
-# Run Chrome as background process
+# Run Chrome as a background process
 # https://chromium.googlesource.com/chromium/src/+/lkgr/headless/README.md
 # --disable-gpu currently required, see link above
 google-chrome --headless --hide-scrollbars --remote-debugging-port=9222 --disable-gpu &
