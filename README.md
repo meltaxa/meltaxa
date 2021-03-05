@@ -6,7 +6,7 @@ Here are some side projects I am currently working on:
 * <a href="#solariot-communicate-with-a-solar-inverter-using-modbus-tcp">Solariot: Communicate with a Solar Inverter using Modbus TCP.</a>
 * <a href="#slackview-stream-a-slack-channel-to-a-web-page">SlackView: Stream a Slack channel to a web page.</a>
 
-<b>TL;DR</b>: <i>A screenshot is worth a thousand lines of code</i><a href="https://github.com/meltaxa/meltaxa/blob/master/README.md#a-screenshot-is-worth-a-thousand-lines-of-code">*</a>.
+A screenshot is worth a thousand lines of code</i><a href="https://github.com/meltaxa/meltaxa/blob/master/README.md#a-screenshot-is-worth-a-thousand-lines-of-code">*</a>.
 
 ## Musicfig: The Raspberry Pi LEGO Minifigure jukebox
 <p align="left">
@@ -34,7 +34,7 @@ Check out: <a href="https://github.com/meltaxa/slackview">https://github.com/mel
 #### *A screenshot is worth a thousand lines of code
 A worthy adage meaning that the complex and sometimes multiple ideas can be conveyed by a single project snapshot, which conveys the meaning or essence more effectively than a long descriptive README.
 
-Each project screenshot is dynamic and updated every 5 minutes. Click on the screenshot or reload this page to see the latest! To add a dynamic screenshot to your Github profile, view this <a href="https://github.com/meltaxa/meltaxa/raw/master/README.md">README.md</a> file in raw format and see the comments section towards the end of the file.
+Each project screenshot is dynamic and updated every minute. Click on the screenshot or reload this page to see the latest! To add a dynamic screenshot to your Github profile, view this <a href="https://github.com/meltaxa/meltaxa/raw/master/README.md">README.md</a> file in raw format for instructions.
 
 <!---
 To add a dynamic screenshot to your Github profile
