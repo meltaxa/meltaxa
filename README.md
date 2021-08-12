@@ -2,11 +2,19 @@
 
 Here are some side projects I am currently working on:
 
+* <a href="#youtube-retitler-updates-a-video-title-and-thumbnail-with-view-counts">YouTube Retitler: Updates a video title and thumbnail with view counts.</a>
 * <a href="#musicfig-the-raspberry-pi-lego-minifigure-jukebox">Musicfig: The Raspberry Pi LEGO Minifigure jukebox.</a>
 * <a href="#solariot-communicate-with-a-solar-inverter-using-modbus-tcp">Solariot: Communicate with a Solar Inverter using Modbus TCP.</a>
 * <a href="#slackview-stream-a-slack-channel-to-a-web-page">SlackView: Stream a Slack channel to a web page.</a>
 
 A screenshot is worth a thousand lines of code</i><a href="https://github.com/meltaxa/meltaxa/blob/master/README.md#a-screenshot-is-worth-a-thousand-lines-of-code">*</a>.
+
+## YouTube Retitler: Updates a video title and thumbnail with view counts
+<p align="left"> 
+Smash that like button :laughing:<br>
+<img src="https://mellican.com/images/youtube.png?github=youtube-retitler" width=400px><br>
+Check out: <a href="https://github.com/meltaxa/youtube-retitler">https://github.com/meltaxa/youtube-retitler</a>
+</p>
 
 ## Musicfig: The Raspberry Pi LEGO Minifigure jukebox
 <p align="left">
