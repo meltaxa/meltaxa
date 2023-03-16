@@ -12,7 +12,7 @@ A screenshot is worth a thousand lines of code</i><a href="https://github.com/me
 ## My Astronomy Picture of the Moment
 <p align="left"> 
 Showcase your astronomy images online. A glorified slideshow that is designed to be plug and play for technologically challenged folks :smile:.<br>
-<img src="https://mellican.com/images/hotlink-ok/apom.png?github-profile" width=400px><br>
+<img src="https://mellican.com/images/apom.png?github=profile" width=400px><br>
 Check out: <a href="https://github.com/meltaxa/yapom">https://github.com/meltaxa/apom</a>
 </p>
 
