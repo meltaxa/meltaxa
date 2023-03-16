@@ -13,7 +13,7 @@ A screenshot is worth a thousand lines of code</i><a href="https://github.com/me
 <p align="left"> 
 Showcase your astronomy images online. A glorified slideshow that is designed to be plug and play for technologically challenged folks :smile:.<br>
 <img src="https://mellican.com/images/apom.png?github=profile" width=400px><br>
-Check out: <a href="https://github.com/meltaxa/yapom">https://github.com/meltaxa/apom</a>
+Check out: <a href="https://github.com/meltaxa/apom">https://github.com/meltaxa/apom</a>
 </p>
 
 ## YouTube Retitler: Updates a video title and thumbnail with view counts
