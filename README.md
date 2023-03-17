@@ -2,6 +2,7 @@
 
 Here are some side projects I am currently working on:
 
+* <a href="#my-astronomy-picture-of-the-moment">My Astronomy Picture of the Moment.</a>
 * <a href="#youtube-retitler-updates-a-video-title-and-thumbnail-with-view-counts">YouTube Retitler: Updates a video title and thumbnail with view counts.</a>
 * <a href="#musicfig-the-raspberry-pi-lego-minifigure-jukebox">Musicfig: The Raspberry Pi LEGO Minifigure jukebox.</a>
 * <a href="#solariot-communicate-with-a-solar-inverter-using-modbus-tcp">Solariot: Communicate with a Solar Inverter using Modbus TCP.</a>
